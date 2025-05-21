@@ -1,6 +1,8 @@
-## Informed Labs
+## TC Functors
 
-Github Organization for the [Informed](https://www.informediq.com) Open Source projects
+Github Organization for the tc-functors Open Source projects
+
+This has been developed and used at [Informed Inc](https://www.informediq.com) starting in 2023. It was open sourced at the end of 2024.
 
 <!--
 
